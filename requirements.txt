@@ -1,0 +1,13 @@
+pandas
+numpy
+openpyxl
+xlsxwriter
+pyarrow
+fastparquet
+matplotlib
+seaborn
+scipy
+statsmodels
+humanize
+pyyaml
+
